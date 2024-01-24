@@ -6,10 +6,10 @@
 
 **Tableau -** https://public.tableau.com/app/profile/yamin3547/viz/LeveragingPrecisionPersonalizedMarketingStrategiesforLoans/Dashboard1#1
 
-In this project, we conducted an in-depth analysis of a dataset containing personal loan information. The dataset includes various attributes such as age, income, family size, education level, and details about financial products such as personal loans, credit cards, and certificates of deposit (CD accounts).
+In this project, I conducted an in-depth analysis of a dataset containing personal loan information. The dataset includes various attributes such as age, income, family size, education level, and details about financial products such as personal loans, credit cards, and certificates of deposit (CD accounts).
 
 **Data Cleaning and Preprocessing:**
-1. **Duplicates and Null Values:** We identified and handled duplicate rows, and also counted and addressed null values in the dataset.
+1. **Duplicates and Null Values:** I identified and handled duplicate rows, and also counted and addressed null values in the dataset.
 2. **Column Removal:** Unnecessary columns such as 'ID' and 'ZIP Code' were removed to focus on relevant features.
 
 **Data Exploration and Enrichment:**
